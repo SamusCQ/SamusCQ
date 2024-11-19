@@ -52,7 +52,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=SamusCQ&show_icons=true&theme=dark&locale=en" alt="SamusCQ" />
 </p>
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SamusCQ&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)
 
