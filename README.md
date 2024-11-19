@@ -54,9 +54,8 @@
 
 <br><br><br><br><br><br><br><br><br><br>
 
-<p>
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SamusCQ&theme=dark" alt="SamusCQ" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SamusCQ&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)
+
 
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%">
