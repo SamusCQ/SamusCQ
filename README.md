@@ -57,7 +57,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SamusCQ&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)
 
 
-<br><br><br><br><br><br><br
+<br><br><br><br><br><br>
 <hr width="60%">
 
 <h3 align="left">Connect with me:</h3>
