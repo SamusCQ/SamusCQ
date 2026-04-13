@@ -29,6 +29,12 @@
 - Clean and practical solutions
 - Continuous learning
 
+## GitHub Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SamusCQ&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
 ## Contact
 
 - LinkedIn: [linkedin.com/in/samuscq](https://linkedin.com/in/samuscq)
